@@ -28,19 +28,18 @@ A REST API built with NestJS featuring:
 ## Setup
 
 1. Install dependencies:
-   ```bash
+   ```
    npm install
 
 
 Configure environment variables (create .env):
-    ```bash
+    ```
     DATABASE_URI=mongodb://localhost:27017/nest-api
     JWT_SECRET=your_jwt_secret_here```
 
 Run the app:
-    ```bash
-    npm run start:dev
-    API Documentation```
+    ```
+    npm run start:dev```
 
 ### API Documentation
 
